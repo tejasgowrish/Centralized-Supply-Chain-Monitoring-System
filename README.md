@@ -15,7 +15,7 @@ supply_chain_dashboard/
 ├── models/
 │   ├── __init__.py
 │   └── forecasting.py     # ML models and forecasting
-├── pages/
+└── pages/
     ├── __init__.py
     ├── dashboard.py       # Dashboard overview
     ├── inventory.py       # Inventory management
