@@ -47,3 +47,6 @@ supply_chain_dashboard/
    - Web charts
 3. Demand forecasting - Simple, straight-forward forecasting using Simple Moving Average (SMA)
 
+
+## Screenshot of Overview Page
+![Screenshot 2025-06-11 012439](https://github.com/user-attachments/assets/3d3e3b58-0bf1-4cbb-9911-800a72755905)
