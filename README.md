@@ -16,10 +16,10 @@ supply_chain_dashboard/
 │   ├── __init__.py
 │   └── forecasting.py     # ML models and forecasting
 ├── pages/
-│   ├── __init__.py
-│   ├── dashboard.py       # Dashboard overview
-│   ├── inventory.py       # Inventory management
-│   ├── orders.py          # Order & shipment tracking
+    ├── __init__.py
+    ├── dashboard.py       # Dashboard overview
+    ├── inventory.py       # Inventory management
+    ├── orders.py          # Order & shipment tracking
     ├── costs.py           # Cost analysis
     ├── suppliers.py       # Supplier performance
     ├── forecasting.py     # Demand forecasting
