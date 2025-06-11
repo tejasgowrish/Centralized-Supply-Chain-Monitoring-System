@@ -5,12 +5,12 @@ A web application that provides real-time monitoring and analytics of key supply
 ## In this repo
 ```
 supply_chain_dashboard/
-├── main.py                # Main Streamlit app entry point
+├── main.py                # Main streamlit app entry point
 ├── config/
 │   └── settings.py        # Configuration settings
 ├── data/
 │   ├── __init__.py
-│   ├── data_generator.py  # Sample data generation
+│   ├── data_generator.py  # Sample data creation generation
 │   └── data_loader.py     # Data loading functions
 ├── models/
 │   ├── __init__.py
@@ -20,14 +20,11 @@ supply_chain_dashboard/
 │   ├── dashboard.py       # Dashboard overview
 │   ├── inventory.py       # Inventory management
 │   ├── orders.py          # Order & shipment tracking
-│   ├── costs.py           # Cost analysis
-│   ├── suppliers.py       # Supplier performance
-│   ├── forecasting.py     # Demand forecasting
-│   └── alerts.py          # Alerts & notifications
-├── utils/
-│   ├── __init__.py
-│   └── helpers.py         # Utility functions
-└── requirements.txt       # Dependencies
+    ├── costs.py           # Cost analysis
+    ├── suppliers.py       # Supplier performance
+    ├── forecasting.py     # Demand forecasting
+    └── alerts.py          # Alerts & notifications
+
 ```
 
 
